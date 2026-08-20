@@ -1,4 +1,4 @@
-👁️ OptiLib - Sistema de Gestión para Laboratorio Óptico
+👁️ OptiLib - Sistema de Gestión para Laboratorio de Óptica
 
 **OptiLib** es una aplicación web diseñada para la gestión, control e inventario de insumos, maquinarias, cristales, marcos y listas de chequeo diario en laboratorios ópticos.
 
